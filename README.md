@@ -1,5 +1,4 @@
 # Portfolio
-#This was as a result of urgent online interview
+#This is for an urgent online interview
 #I applied for in my country.
-#Hope I get accepted!
 #🙏
